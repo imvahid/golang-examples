@@ -1,4 +1,4 @@
-# :man_technologist: Examples of my practice projects with the Go
+## :man_technologist: Examples of my practice projects with the Go
 
 Go is an open source programming language that makes it easy to build simple,
 reliable, and efficient software.
