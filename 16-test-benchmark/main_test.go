@@ -2,6 +2,18 @@ package main
 
 import "testing"
 
+/*
+ * Useful Commands
+ * 01. go test .
+ * 02. go test ./...
+ * 03. go test -bench=.
+ * 04. go test -v -bench=.
+ * 05. go test -cover .
+ * 06. go test -cover ./...
+ * 07. go test -count=10 .
+ * 08. go test -count=10 ./...
+ */
+
 func TestAbs(t *testing.T) {
 	o := Abs(-1)
 
